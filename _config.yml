@@ -229,6 +229,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  mini_projects:
+    output: true
+    permalink: /mini_projects/:path/
 
 
 # These settings control how pages and collections are included in the site
