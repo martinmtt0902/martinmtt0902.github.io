@@ -39,8 +39,6 @@ My research interests include change-point detection in non-stationary high-freq
 
 ## Research Interests
 
-- High-frequency financial econometrics  
-- Change-point detection in high-dimensional and non-stationary settings  
-- Non-parametric and semi-parametric methods  
-- Time series analysis  
-- Empirical process theory and probability tools for modern statistics
+- High-frequency financial return analysis
+- Change-point detection in high-dimensional time series
+- Non-parametric and semi-parametric methods
