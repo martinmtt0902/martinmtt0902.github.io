@@ -46,8 +46,7 @@ Below is the complete set of tutorial notes. Each tutorial contains both a **non
 ---
 
 ## Tutorial 4 – Midterm Review
-- [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial04_midtermreview/Tutorial04_midtermreview.pdf)
-- [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial04_midtermreview/Tutorial04_midtermreview_sol.pdf)
+- [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial04_midtermreview/Tutorial04_midtermreview.pdf)
 
 ---
 
@@ -70,11 +69,9 @@ Below is the complete set of tutorial notes. Each tutorial contains both a **non
 ---
 
 ## Tutorial 8 – GARCH Models
-- [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial08_garch/Tutorial08_garch.pdf)
-- [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial08_garch/Tutorial08_garch_sol.pdf)
+- [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial08_garch/Tutorial08_garch.pdf)
 
 ---
 
-## Tutorial 9 – Final Exam Review
-- [Summary Notes](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial09_nonstationary/Tutorial09_nonstationary.pdf)
-- [Mock Final Exam (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial09_nonstationary/Tutorial09_nonstationary_sol.pdf)
+## Tutorial 9 – Test of Non-Stationarity
+- [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial09_nonstationary/Tutorial09_nonstationary.pdf)
