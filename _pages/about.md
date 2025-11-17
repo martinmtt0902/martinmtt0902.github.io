@@ -15,7 +15,6 @@ My research interests include change-point detection in non-stationary high-freq
 I am also keen on inference for time series data.
 
 ---
-
 ## Academic Background
 
 - **Ph.D. in Statistics (Expected 2027)**, CUHK  (Supervisor: Prof. Chan Kin Wai)
@@ -26,7 +25,6 @@ I am also keen on inference for time series data.
   - Minor in Statistics and Mathematics
 
 ---
-
 ## Awards and Honors
 
 - CUHK Vice-Chancellor’s HKPFS Scholarship (2024–27)  
