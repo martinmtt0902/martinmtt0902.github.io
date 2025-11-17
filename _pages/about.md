@@ -13,6 +13,7 @@ I am a PhD student in Statistics in the [Department of Statistics and Data Scien
 My research interests include change-point detection in non-stationary high-frequency financial data and non-parametric statistics. I am also keen on inference for time series data.
 
 
+
 ## Academic Background
 
 - **Ph.D. in Statistics (Expected 2027)**, CUHK  (Supervisor: Prof. Chan Kin Wai)
@@ -22,7 +23,8 @@ My research interests include change-point detection in non-stationary high-freq
 - **B.Sc. in Risk Management Science (First Class Honours)**, CUHK  
   - Minor in Statistics and Mathematics
 
----
+
+
 ## Awards and Honors
 
 - CUHK Vice-Chancellor’s HKPFS Scholarship (2024–27)  
@@ -35,7 +37,7 @@ My research interests include change-point detection in non-stationary high-freq
 - Fan Fang Qi Ying Memorial Scholarship (2020–21)  
 - Dean’s List (2019–20, 2020–21)
 
----
+
 
 ## Research Interests
 
