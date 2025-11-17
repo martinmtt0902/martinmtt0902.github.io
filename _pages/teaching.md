@@ -7,19 +7,16 @@ author_profile: true
 
 # Teaching Experience
 
-I have served as a Teaching Assistant / Tutor for the following CUHK courses:
+I have served as a Teaching Assistant for the following CUHK courses:
 
-- **STAT4005 – Time Series (2024–25 Fall)**
-- **STAT3006 – Statistical Inference**
-- **STAT2001 – Basic Statistical Methods**
-- **STAT1001 – Introductory Statistics**
+- **STAT4005 – Time Series (2022–23 1st term; 2023-24 1st & 2nd term; 2024-25 1st & 2nd term; 2025-26 1st term)**
+- **STAT5107 – Discrete Data Analytics (2023-24 1st term)**
+- **RMSC3101 – Special Topics in Risk Management (2022-23 2nd term)**
+- **RMSC5001 – Advanced Statistical Theory in Risk Management (2023-24 2nd term)**
 
 ---
 
 # STAT4005 (Time Series) – Tutorial Notes  
-### 2024–25 Fall  
-Venue & Time: LSB LT6, Monday 17:30–18:15
-
 Below is the complete set of tutorial notes. Each tutorial contains both a **non-solution version** and a **solution version**.
 
 ---
