@@ -18,11 +18,9 @@ I am also keen on inference for time series data.
 
 ## Academic Background
 
-- **Ph.D. in Statistics (Expected 2027)**, CUHK  
-  Supervisor: Prof. Chan Kin Wai
+- **Ph.D. in Statistics (Expected 2027)**, CUHK  (Supervisor: Prof. Chan Kin Wai)
 
-- **M.Phil. in Risk Management Science (2024)**, CUHK  
-  Supervisor: Prof. Chan Kin Wai
+- **M.Phil. in Risk Management Science (2024)**, CUHK (Supervisor: Prof. Chan Kin Wai)
 
 - **B.Sc. in Risk Management Science (First Class Honours)**, CUHK  
   - Minor in Statistics and Mathematics
