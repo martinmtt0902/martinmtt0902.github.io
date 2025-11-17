@@ -1,3 +1,10 @@
+---
+title: "Ting Tin (Martin) Ma"
+layout: home
+permalink: /
+author_profile: true
+---
+
 I am a PhD student in Statistics in the [Department of Statistics](https://www.sta.cuhk.edu.hk/) at  
 [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/).  
 My background includes Statistics, Mathematics, and Finance.
