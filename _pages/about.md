@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ting Tin (Martin) Ma"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
@@ -12,35 +12,33 @@ I am a PhD student in Statistics in the [Department of Statistics and Data Scien
 
 My research interests include change-point detection in non-stationary high-frequency financial data and non-parametric statistics. I am also keen on inference for time series data.
 
+<h2 style="margin-top: 0.75rem; margin-bottom: 0.25rem;">Academic Background</h2>
 
+<ul style="margin-top: 0.25rem; margin-bottom: 0.75rem;">
+  <li><strong>Ph.D. in Statistics (Expected 2027)</strong>, CUHK (Supervisor: Prof. Chan Kin Wai)</li>
+  <li><strong>M.Phil. in Risk Management Science (2024)</strong>, CUHK (Supervisor: Prof. Chan Kin Wai)</li>
+  <li><strong>B.Sc. in Risk Management Science (First Class Honours)</strong>, CUHK  
+      <br>Minor in Statistics and Mathematics</li>
+</ul>
 
-## Academic Background
+<h2 style="margin-top: 0.75rem; margin-bottom: 0.25rem;">Awards and Honors</h2>
 
-- **Ph.D. in Statistics (Expected 2027)**, CUHK  (Supervisor: Prof. Chan Kin Wai)
+<ul style="margin-top: 0.25rem; margin-bottom: 0.75rem;">
+  <li>CUHK Vice-Chancellor’s HKPFS Scholarship (2024–27)</li>
+  <li>Science Faculty Postgraduate Research Day, Poster Presentation Award, Merit (2023–24)</li>
+  <li>Best Teaching Assistant Award, Department of Statistics, CUHK (2022–23)</li>
+  <li>Bank of East Asia Scholarship (2021–22)</li>
+  <li>Chung Chi College Class Scholarship (2021–22)</li>
+  <li>Department of Statistics Scholarship, CUHK (2021–22)</li>
+  <li>Bankee Kwan Scholarship for Interdisciplinary Mathematics (2020–21)</li>
+  <li>Fan Fang Qi Ying Memorial Scholarship (2020–21)</li>
+  <li>Dean’s List (2019–20, 2020–21)</li>
+</ul>
 
-- **M.Phil. in Risk Management Science (2024)**, CUHK (Supervisor: Prof. Chan Kin Wai)
+<h2 style="margin-top: 0.75rem; margin-bottom: 0.25rem;">Research Interests</h2>
 
-- **B.Sc. in Risk Management Science (First Class Honours)**, CUHK  
-  - Minor in Statistics and Mathematics
-
-
-
-## Awards and Honors
-
-- CUHK Vice-Chancellor’s HKPFS Scholarship (2024–27)  
-- Science Faculty Postgraduate Research Day, Poster Presentation Award, Merit (2023–24)  
-- Best Teaching Assistant Award, Department of Statistics, CUHK (2022–23)  
-- Bank of East Asia Scholarship (2021–22)  
-- Chung Chi College Class Scholarship (2021–22)  
-- Department of Statistics Scholarship, CUHK (2021–22)  
-- Bankee Kwan Scholarship for Interdisciplinary Mathematics (2020–21)  
-- Fan Fang Qi Ying Memorial Scholarship (2020–21)  
-- Dean’s List (2019–20, 2020–21)
-
-
-
-## Research Interests
-
-- High-frequency financial return analysis
-- Change-point detection in high-dimensional time series
-- Non-parametric and semi-parametric methods
+<ul style="margin-top: 0.25rem; margin-bottom: 0.75rem;">
+  <li>High-frequency financial return analysis</li>
+  <li>Change-point detection in high-dimensional time series</li>
+  <li>Non-parametric and semi-parametric methods</li>
+</ul>
