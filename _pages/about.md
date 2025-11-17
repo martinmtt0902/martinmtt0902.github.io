@@ -12,7 +12,7 @@ I am a PhD student in Statistics in the [Department of Statistics and Data Scien
 
 My research interests include change-point detection in non-stationary high-frequency financial data and non-parametric statistics. I am also keen on inference for time series data.
 
-<h2 style="margin-top: 1.25rem; margin-bottom: 0.25rem;">Academic Background</h2>
+<h2 style="margin-top: 2rem; margin-bottom: 0.25rem;">Academic Background</h2>
 
 <ul style="margin-top: 0.25rem; margin-bottom: 1rem;">
   <li><strong>Ph.D. in Statistics (Expected 2027)</strong>, CUHK (Supervisor: Prof. Chan Kin Wai)</li>
