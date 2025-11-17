@@ -9,6 +9,6 @@ author_profile: true
 
 Here is a selection of smaller projects and course assessments.
 
-{% for post in site.mini_projects reversed %}
+{% for post in site.mini_projects %}
   {% include archive-single.html %}
 {% endfor %}
