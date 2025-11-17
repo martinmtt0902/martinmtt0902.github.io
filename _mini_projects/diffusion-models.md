@@ -1,7 +1,7 @@
 ---
 title: "Diffusion Probabilistic Models under Gaussian Mixture Models"
 collection: mini_projects
-date: 2025-02-01
+date: 2024-12-15
 venue: "STAT6050 – Advanced Statistical Learning"
 github: "https://github.com/martinmtt0902/Diffusion-Models"
 ---
