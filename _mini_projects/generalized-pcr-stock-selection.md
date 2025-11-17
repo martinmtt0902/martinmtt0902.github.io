@@ -15,4 +15,4 @@ to stock selection using high-dimensional factor ratios and PCA-based compressio
 - Compares PCR-based models with standard regression baselines.
 
 **GitHub repository:**  
-[github.com/martinmtt0902/generalized-pcr-stock-selection](https://github.com/martinmtt0902/generalized-pcr-stock-selection)
+[https://github.com/martinmtt0902/generalized-pcr-stock-model](https://github.com/martinmtt0902/generalized-pcr-stock-model)
