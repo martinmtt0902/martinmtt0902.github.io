@@ -1,7 +1,7 @@
 ---
 title: "Generalized PCR for Stock Selection"
 collection: mini_projects
-date: 2023-05-01   # approximate completion date
+date: 2020-12-03   # approximate completion date
 venue: "RMSC4002 – Financial Data Analytics with Machine Learning"
 github: "https://github.com/martinmtt0902/generalized-pcr-stock-selection"
 ---
