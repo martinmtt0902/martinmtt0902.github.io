@@ -3,7 +3,7 @@ title: "Horse Racing Prediction: Deep Learning vs Random Forest"
 collection: mini_projects
 date: 2021-05-07
 venue: "STAT4012 – Statistical Machine Learning"
-github: "[https://github.com/martinmtt0902/horse-racing-project](https://github.com/martinmtt0902/horse-racing-deep-learning)"
+github: "[https://github.com/martinmtt0902/horse-racing-deep-learning](https://github.com/martinmtt0902/horse-racing-deep-learning)"
 ---
 
 This project analyzes Hong Kong horse racing data and compares modern machine learning
