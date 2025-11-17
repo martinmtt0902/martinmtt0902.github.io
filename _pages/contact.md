@@ -13,7 +13,7 @@ author_profile: true
 
 ---
 
-## Location (CUHK Campus)
+## Location (Lady Shaw Building)
 
 <div style="width:100%; height:450px; display:flex; justify-content:center; margin-top:20px;">
 <iframe
