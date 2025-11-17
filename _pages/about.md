@@ -25,6 +25,7 @@ My research interests include change-point detection in non-stationary high-freq
   </li>
 </ul>
 
+<li style="list-style-type: none; height: 0.5rem;"></li>
 <h2 style="margin-top: 1.25rem; margin-bottom: 0.25rem;">Awards and Honors</h2>
 
 <ul style="margin-top: 0.25rem; margin-bottom: 1rem;">
@@ -39,6 +40,7 @@ My research interests include change-point detection in non-stationary high-freq
   <li>Dean’s List (2019–20, 2020–21)</li>
 </ul>
 
+<li style="list-style-type: none; height: 0.5rem;"></li>
 <h2 style="margin-top: 1.25rem; margin-bottom: 0.25rem;">Research Interests</h2>
 
 <ul style="margin-top: 0.25rem; margin-bottom: 1rem;">
