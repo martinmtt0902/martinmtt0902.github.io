@@ -12,25 +12,24 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Ting Tin (Martin) Ma"
 title_separator          : "-"
 name                     : "Ting Tin (Martin) Ma"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://martinmtt0902.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "PhD student in Statistics at The Chinese University of Hong Kong (CUHK)"
+url                      : "https://martinmtt0902.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "martinmtt0902/martinmtt0902.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "images/profile.png"   # make sure your photo is at images/profile.png
+  name             : "Ting Tin (Martin) Ma"
+  pronouns         : # e.g. "he/him" if you want to show this
+  bio              : "PhD student in Statistics at CUHK"
+  location         : "Hong Kong"
+  employer         : "The Chinese University of Hong Kong (CUHK)"
+  uri              : "https://martinmtt0902.github.io"
+  email            : "martinmtt@link.cuhk.edu.hk"
 
   # Academic websites
   academia         : # URL
@@ -48,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "martinmtt0902"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
