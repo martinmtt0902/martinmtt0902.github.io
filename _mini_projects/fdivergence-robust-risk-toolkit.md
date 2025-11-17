@@ -1,7 +1,7 @@
 ---
 title: "F-Divergence Robust Risk Toolkit"
 collection: mini_projects
-date: 2024-04-01
+date: 2022-04-05
 venue: "RMSC4102 – Risk Theory and Applications"
 github: "https://github.com/martinmtt0902/fdivergence-robust-risk-toolkit"
 ---
