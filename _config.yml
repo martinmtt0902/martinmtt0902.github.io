@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"   # make sure your photo is at images/profile.png
   name             : "Ting Tin (Martin) Ma"
   pronouns         : # e.g. "he/him" if you want to show this
-  bio              : #"PhD student in Statistics at CUHK"
+  bio              : "PhD student in Statistics at CUHK"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong (CUHK)"
   uri              : "https://martinmtt0902.github.io"
