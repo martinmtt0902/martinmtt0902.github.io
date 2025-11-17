@@ -97,4 +97,4 @@ Below is the complete set of tutorial notes I prepared for STAT4005.
 ## Final Examination - Mock & Past Paper
 - 🔍 [Mock Final (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/STAT4005_mockfinal.pdf)
 - 🔍 [Mock Final (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/STAT4005_mockfinal_sol.pdf)
-- 🔍 [Final Exam 22-23 1st term (With Solution for T&F Question)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2025.pdf)
+- 🔍 [2022-23 1st term (T&F Question)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2025.pdf)
