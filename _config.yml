@@ -13,7 +13,7 @@ title                    : "Ting Tin (Martin) Ma"
 title_separator          : "-"
 name                     : "Ting Tin (Martin) Ma"
 description              : &description "PhD student in Statistics at The Chinese University of Hong Kong (CUHK)"
-url                      : "https://sites.google.com/view/martinmtt/home"
+url                      : "https://martinmtt0902.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinmtt0902/martinmtt0902.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "PhD student in Statistics at CUHK"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong (CUHK)"
-  uri              : "https://martinmtt0902.github.io"
+  uri              : "https://sites.google.com/view/martinmtt/home"
   email            : "martinmtt@link.cuhk.edu.hk"
 
   # Academic websites
