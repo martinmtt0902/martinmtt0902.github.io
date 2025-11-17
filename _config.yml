@@ -22,7 +22,7 @@ repository               : "martinmtt0902/martinmtt0902.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"   # make sure your photo is at images/profile.png
+  avatar           : "/images/profile.png"   # make sure your photo is at images/profile.png
   name             : "Ting Tin (Martin) Ma"
   pronouns         : # e.g. "he/him" if you want to show this
   bio              : "PhD student in Statistics at CUHK"
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
