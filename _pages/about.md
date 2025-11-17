@@ -19,7 +19,7 @@ My research interests include change-point detection in non-stationary high-freq
   <li><strong>M.Phil. in Risk Management Science (2024)</strong>, CUHK (Supervisor: Prof. Chan Kin Wai)</li>
   <li><strong>B.Sc. in Risk Management Science (First Class Honours)</strong>, CUHK
       <ul>
-        <li style="list-style-type: none; height: 0.4rem;"></li>
+        <li style="list-style-type: none; height: 0rem;"></li>
         <li>Minor in Statistics and Mathematics</li>
       </ul>
   </li>
