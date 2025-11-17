@@ -93,3 +93,8 @@ Below is the complete set of tutorial notes I prepared for STAT4005.
 - 🔍 [2022-23 1st Term](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2022.pdf)
 - 🔍 [2023-24 1st Term](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2023.pdf)
 - 🔍 [2024-25 2nd Term](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2025.pdf)
+
+## Final Examination - Mock & Past Paper
+- 🔍 [Mock Final (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/STAT4005_mockfinal.pdf)
+- 🔍 [Mock Final (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/STAT4005_mockfinal_sol.pdf)
+- 🔍 [Final Exam 22-23 1st term (With Solution for T&F Question)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2025.pdf)
