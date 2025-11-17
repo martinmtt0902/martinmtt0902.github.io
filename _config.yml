@@ -12,8 +12,8 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Ting Tin (Martin) Ma"
 title_separator          : "-"
 name                     : "Ting Tin (Martin) Ma"
-description              : &description "PhD student in Statistics at The Chinese University of Hong Kong (CUHK)"
-url                      : "https://martinmtt0902.github.io"
+description              : #&description "PhD student in Statistics at The Chinese University of Hong Kong (CUHK)"
+url                      : "https://sites.google.com/view/martinmtt/home"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinmtt0902/martinmtt0902.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"   # make sure your photo is at images/profile.png
   name             : "Ting Tin (Martin) Ma"
   pronouns         : # e.g. "he/him" if you want to show this
-  bio              : "PhD student in Statistics at CUHK"
+  bio              : #"PhD student in Statistics at CUHK"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong (CUHK)"
   uri              : "https://martinmtt0902.github.io"
@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
