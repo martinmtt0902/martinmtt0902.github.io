@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Ting Tin (Martin) Ma"
 author_profile: true
 redirect_from:
   - /about/
@@ -12,18 +12,22 @@ I am a PhD student in Statistics in the [Department of Statistics and Data Scien
 
 My research interests include change-point detection in non-stationary high-frequency financial data and non-parametric statistics. I am also keen on inference for time series data.
 
-<h2 style="margin-top: 0.75rem; margin-bottom: 0.25rem;">Academic Background</h2>
+<h2 style="margin-top: 1.25rem; margin-bottom: 0.25rem;">Academic Background</h2>
 
-<ul style="margin-top: 0.25rem; margin-bottom: 0.75rem;">
+<ul style="margin-top: 0.25rem; margin-bottom: 1rem;">
   <li><strong>Ph.D. in Statistics (Expected 2027)</strong>, CUHK (Supervisor: Prof. Chan Kin Wai)</li>
   <li><strong>M.Phil. in Risk Management Science (2024)</strong>, CUHK (Supervisor: Prof. Chan Kin Wai)</li>
-  <li><strong>B.Sc. in Risk Management Science (First Class Honours)</strong>, CUHK  
-      <br>Minor in Statistics and Mathematics</li>
+  <li><strong>B.Sc. in Risk Management Science (First Class Honours)</strong>, CUHK
+      <ul>
+        <li style="list-style-type: none; height: 0.4rem;"></li>
+        <li>Minor in Statistics and Mathematics</li>
+      </ul>
+  </li>
 </ul>
 
-<h2 style="margin-top: 0.75rem; margin-bottom: 0.25rem;">Awards and Honors</h2>
+<h2 style="margin-top: 1.25rem; margin-bottom: 0.25rem;">Awards and Honors</h2>
 
-<ul style="margin-top: 0.25rem; margin-bottom: 0.75rem;">
+<ul style="margin-top: 0.25rem; margin-bottom: 1rem;">
   <li>CUHK Vice-Chancellor’s HKPFS Scholarship (2024–27)</li>
   <li>Science Faculty Postgraduate Research Day, Poster Presentation Award, Merit (2023–24)</li>
   <li>Best Teaching Assistant Award, Department of Statistics, CUHK (2022–23)</li>
@@ -35,9 +39,9 @@ My research interests include change-point detection in non-stationary high-freq
   <li>Dean’s List (2019–20, 2020–21)</li>
 </ul>
 
-<h2 style="margin-top: 0.75rem; margin-bottom: 0.25rem;">Research Interests</h2>
+<h2 style="margin-top: 1.25rem; margin-bottom: 0.25rem;">Research Interests</h2>
 
-<ul style="margin-top: 0.25rem; margin-bottom: 0.75rem;">
+<ul style="margin-top: 0.25rem; margin-bottom: 1rem;">
   <li>High-frequency financial return analysis</li>
   <li>Change-point detection in high-dimensional time series</li>
   <li>Non-parametric and semi-parametric methods</li>
