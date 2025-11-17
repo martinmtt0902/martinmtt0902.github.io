@@ -20,10 +20,6 @@ I have served as a Teaching Assistant in Department of Statistics and Data Scien
 
 # STAT4005 (Time Series) – Tutorial Notes
 
-Legend:  
-- 📄 &nbsp;Notes (without solution)  
-- 🔍 &nbsp;Notes / handout with solution  
-
 Below is the complete set of tutorial notes I prepared for STAT4005.
 
 ---
@@ -92,3 +88,8 @@ Below is the complete set of tutorial notes I prepared for STAT4005.
 ## Tutorial 9 – Test of Non-Stationarity
 
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial09_nonstationary/Tutorial09_nonstationary.pdf)
+
+## Midterm Examination - Past Paper
+- 🔍 [2022-23 1st Term](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2022.pdf)
+- 🔍 [2023-24 1st Term](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2023.pdf)
+- 🔍 [2024-25 2nd Term](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Midterm/stat4005_mt_2025.pdf)
