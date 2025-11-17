@@ -22,68 +22,68 @@ I have served as a Teaching Assistant in Department of Statistics and Data Scien
 
 Below is the complete set of tutorial notes I prepared for STAT4005.
 
----
+
 
 ## Tutorial 0 – Preliminary Material
 
 - 📄 [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial00_preliminary/Tutorial00_preliminary.pdf)  
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial00_preliminary/Tutorial00_preliminary_sol.pdf)
 
----
+
 
 ## Tutorial 1 – Decomposition of Time Series
 
 - 📄 [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial01_decomposition/Tutorial01_decomposition.pdf)  
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial01_decomposition/Tutorial01_decomposition_sol.pdf)
 
----
+
 
 ## Tutorial 2 – Stationarity & Dependence Measure
 
 - 📄 [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial02_stationarity/Tutorial02_stationarity.pdf)  
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial02_stationarity/Tutorial02_stationarity_sol.pdf)
 
----
+
 
 ## Tutorial 3 – Parametric Time Series Models
 
 - 📄 [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial03_modelprop/Tutorial03_modelprop.pdf)  
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial03_modelprop/Tutorial03_modelprop_sol.pdf)
 
----
+
 
 ## Tutorial 4 – Midterm Review
 
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial04_midtermreview/Tutorial04_midtermreview.pdf)
 
----
+
 
 ## Tutorial 5 – Inference on Model Parameters
 
 - 📄 [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial05_parameter_est/Tutorial05_parameter_est.pdf)  
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial05_parameter_est/Tutorial05_parameter_est_sol.pdf)
 
----
+
 
 ## Tutorial 6 – Model Selection & Diagnostics
 
 - 📄 [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial06_selection/Tutorial06_selection.pdf)  
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial06_selection/Tutorial06_selection_sol.pdf)
 
----
+
 
 ## Tutorial 7 – Forecasting
 
 - 📄 [Notes (Without Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial07_prediction/Tutorial07_prediction.pdf)  
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial07_prediction/Tutorial07_prediction_sol.pdf)
 
----
+
 
 ## Tutorial 8 – GARCH Models
 
 - 🔍 [Notes (With Solution)](https://github.com/martinmtt0902/CUHK-STAT4005-Tutorial-Note/blob/main/Tutorial08_garch/Tutorial08_garch.pdf)
 
----
+
 
 ## Tutorial 9 – Test of Non-Stationarity
 
