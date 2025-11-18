@@ -15,7 +15,12 @@ My research interests include change-point detection in high-frequency return da
 <h2 style="margin-top: 1.25rem; margin-bottom: 0.25rem;">Academic Background</h2>
 
 <ul style="margin-top: 0.25rem; margin-bottom: 1rem;">
-  <li><strong>Ph.D. in Statistics (Expected 2027)</strong>, CUHK (Supervisor: Prof. Chan Kin Wai)</li>
+  <li><strong>Ph.D. in Statistics (Expected 2027)</strong>, CUHK
+  (Supervisor:
+  <a href="https://sites.google.com/site/kcwanchkeith/home" target="_blank" rel="noopener">
+    Prof. Chan Kin Wai
+  </a>)
+</li>
  <li><strong>M.Phil. in Risk Management Science (2024)</strong>, CUHK
   (Supervisor:
   <a href="https://sites.google.com/site/kcwanchkeith/home" target="_blank" rel="noopener">
