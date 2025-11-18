@@ -11,12 +11,11 @@ Below is a curated collection of reading group presentations and notes on state-
 
 ## 📘 Reading Group Presentation
 
-- 📄 **The Geometry of Influence Function** [Slide](/assets/sharing/Influence Function.pdf)
+- 📄 **The Geometry of Influence Function** ([Slide](/assets/sharing/Influence Function.pdf))
 
 - 📄 **Coarsening at Random / Coarsening Data** [Slide](/assets/sharing/Coarsening Data.pdf)
 
-- 📄 **Empirical Processes (Uniform LLN & CLT)**  
-  [Slide](/assets/sharing/Empirical Process.pdf)
+- 📄 **Empirical Processes (Uniform LLN & CLT)** [Slide](/assets/sharing/Empirical Process.pdf)
 
 - 📄 **Uniformly Integrable Martingale** [Slide](/assets/sharing/UI Martingale.pdf)
 
