@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistics in the [Department of Statistics and Data Science](https://www.sta.cuhk.edu.hk/) at  
+I am a PhD candidate in Statistics in the [Department of Statistics and Data Science](https://www.sta.cuhk.edu.hk/) at  
 [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/). My background includes Statistics, Mathematics, and Finance.
 
 My research interests include change-point detection in non-stationary high-frequency financial data and non-parametric statistics. I am also keen on inference for time series data.
