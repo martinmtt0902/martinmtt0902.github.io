@@ -29,7 +29,6 @@ My research interests include change-point detection in high-frequency return da
 </li>
   <li><strong>B.Sc. in Risk Management Science (First Class Honours)</strong>, CUHK
       <ul>
-        <li style="list-style-type: none; height: 0rem;"></li>
         <li>Minor in Statistics and Mathematics</li>
       </ul>
   </li>
