@@ -5,8 +5,6 @@ permalink: /sharing/
 author_profile: true
 ---
 
-# Sharing
-
 Below is a curated collection of reading group presentations and notes on state-of-the-art statistical methods.
 
 ---
