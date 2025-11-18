@@ -17,7 +17,7 @@ Below is a curated collection of reading group presentations and notes on state-
 
 - 📄 **Empirical Processes (Uniform LLN & CLT)** ([Slide](/assets/sharing/Empirical Process.pdf))
 
-- 📄 **Uniformly Integrable Martingale** ([Slide](/assets/sharing/UI Martingale.pdf)|[Theorem List](/assets/sharing/UI Martingale (Theorem List).pdf))
+- 📄 **Uniformly Integrable Martingale** ([Slide](/assets/sharing/UI Martingale.pdf), [Theorem List](/assets/sharing/UI Martingale (Theorem List).pdf))
 
 - 📄 **Kronecker Lemma and Its Applications** ([Slide](/assets/sharing/Kronecker Lemma.pdf))
 
