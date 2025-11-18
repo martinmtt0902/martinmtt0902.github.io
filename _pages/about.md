@@ -10,7 +10,7 @@ redirect_from:
 I am a PhD candidate in Statistics in the [Department of Statistics and Data Science](https://www.sta.cuhk.edu.hk/) at  
 [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/). My background includes Statistics, Mathematics, and Finance.
 
-My research interests include change-point detection in non-stationary high-frequency financial data and non-parametric statistics. I am also keen on inference for time series data.
+My research interests include change-point detection in high-frequency return data and high dimensional non-parametric statistics under time series setting.
 <li style="list-style-type: none; height: 0.5rem;"></li>
 <h2 style="margin-top: 1.25rem; margin-bottom: 0.25rem;">Academic Background</h2>
 
