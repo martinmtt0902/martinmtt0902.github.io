@@ -17,5 +17,8 @@ main:
   - title: "Mini Projects"
     url: /mini-projects/
 
+  - title: "Sharing"
+    url: /sharing/
+
   - title: "Contact"
     url: /contact/
