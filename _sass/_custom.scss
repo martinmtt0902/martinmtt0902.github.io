@@ -36,11 +36,24 @@
   }
 }
 
-.sidebar {
+.sidebar,
+.sidebar.sticky,
+.sidebar.sticky:hover {
   @include breakpoint($large) {
-    opacity: 1;
-    transition: none;
+    opacity: 1 !important;
+    transition: none !important;
   }
+}
+
+.sidebar.sticky .author__avatar,
+.sidebar.sticky .author__avatar img,
+.sidebar.sticky .author__content,
+.sidebar.sticky .author__name,
+.sidebar.sticky .author__bio,
+.sidebar.sticky .author__urls-wrapper,
+.sidebar.sticky .author__urls {
+  opacity: 1 !important;
+  filter: none !important;
 }
 
 .author__avatar img {
