@@ -40,7 +40,7 @@
 .professional-home,
 .profile-page {
   display: grid;
-  gap: 1.4rem;
+  gap: 1.2rem;
 }
 
 .profile-section,
@@ -90,6 +90,10 @@
   @include breakpoint($medium) {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+}
+
+.professional-home .profile-grid--two {
+  grid-template-columns: minmax(0, 1fr);
 }
 
 .profile-list {
@@ -148,14 +152,6 @@
   font-family: $sans-serif;
   font-size: 0.9rem;
   font-weight: 700;
-}
-
-.profile-card--work a {
-  text-decoration: none;
-}
-
-.profile-card--work a:hover {
-  text-decoration: underline;
 }
 
 .contact-map {
