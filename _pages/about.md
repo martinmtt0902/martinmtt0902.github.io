@@ -23,26 +23,15 @@ redirect_from:
 
   <section class="profile-section">
     <h2>Academic background</h2>
-    <div class="profile-timeline">
-      <article class="profile-timeline__item">
-        <div>
-          <h3><span class="profile-timeline__year">2024-Present</span> PhD in Statistics</h3>
-          <p>The Chinese University of Hong Kong</p>
-        </div>
-      </article>
-      <article class="profile-timeline__item">
-        <div>
-          <h3><span class="profile-timeline__year">2022-2024</span> MPhil in Risk Management Science</h3>
-          <p>The Chinese University of Hong Kong</p>
-        </div>
-      </article>
-      <article class="profile-timeline__item">
-        <div>
-          <h3><span class="profile-timeline__year">2017-2022</span> BSc in Risk Management Science, First Class Honours</h3>
-          <p>Minor in Statistics and Mathematics</p>
-        </div>
-      </article>
-    </div>
+    <ul class="profile-list">
+      <li><strong>PhD in Statistics (2024-Present)</strong>, The Chinese University of Hong Kong</li>
+      <li><strong>MPhil in Risk Management Science (2022-2024)</strong>, The Chinese University of Hong Kong</li>
+      <li><strong>BSc in Risk Management Science, First Class Honours (2017-2022)</strong>, The Chinese University of Hong Kong
+        <ul>
+          <li>Minor in Statistics and Mathematics</li>
+        </ul>
+      </li>
+    </ul>
   </section>
 
   <section class="profile-section">
