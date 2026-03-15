@@ -38,13 +38,14 @@
 
 .sidebar {
   @include breakpoint($large) {
-    opacity: 0.86;
+    opacity: 1;
+    transition: none;
   }
 }
 
 .author__avatar img {
   @include breakpoint($large) {
-    max-width: 150px;
+    max-width: 185px;
     border-radius: 14px;
     border: 0;
   }
