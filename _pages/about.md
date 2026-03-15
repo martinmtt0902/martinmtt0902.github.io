@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,6 @@ redirect_from:
 
 <div class="professional-home">
   <section class="profile-section profile-section--intro">
-    <h2>Hello, I am Ting Tin (Martin) Ma.</h2>
     <p class="profile-lead">
       I am a PhD student in Statistics at The Chinese University of Hong Kong.
       My background includes statistics, mathematics, and finance, and I am
@@ -26,23 +25,20 @@ redirect_from:
     <h2>Academic background</h2>
     <div class="profile-timeline">
       <article class="profile-timeline__item">
-        <p class="profile-timeline__year">2024-Present</p>
         <div>
-          <h3>PhD in Statistics</h3>
+          <h3><span class="profile-timeline__year">2024-Present</span> PhD in Statistics</h3>
           <p>The Chinese University of Hong Kong</p>
         </div>
       </article>
       <article class="profile-timeline__item">
-        <p class="profile-timeline__year">2024</p>
         <div>
-          <h3>MPhil in Risk Management Science</h3>
+          <h3><span class="profile-timeline__year">2022-2024</span> MPhil in Risk Management Science</h3>
           <p>The Chinese University of Hong Kong</p>
         </div>
       </article>
       <article class="profile-timeline__item">
-        <p class="profile-timeline__year">2022</p>
         <div>
-          <h3>BSc in Risk Management Science, First Class Honours</h3>
+          <h3><span class="profile-timeline__year">2017-2022</span> BSc in Risk Management Science, First Class Honours</h3>
           <p>Minor in Statistics and Mathematics</p>
         </div>
       </article>
@@ -80,7 +76,11 @@ redirect_from:
       <li>CUHK Vice-Chancellor's HKPFS Scholarship, 2024-2027</li>
       <li>Poster Presentation Award, Merit, Science Faculty Postgraduate Research Day, 2023-2024</li>
       <li>Best Teaching Assistant Award, Department of Statistics, CUHK, 2022-2023</li>
+      <li>Bank of East Asia Scholarship, 2021-2022</li>
+      <li>Chung Chi College Class Scholarship, 2021-2022</li>
       <li>Department of Statistics Scholarship, CUHK, 2021-2022</li>
+      <li>Bankee Kwan Scholarship for Interdisciplinary Mathematics, 2020-2021</li>
+      <li>Fan Fang Qi Ying Memorial Scholarship, 2020-2021</li>
       <li>Dean's List, 2019-2020 and 2020-2021</li>
     </ul>
   </section>
