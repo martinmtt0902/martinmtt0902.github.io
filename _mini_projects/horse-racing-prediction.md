@@ -3,41 +3,26 @@ title: "Horse Racing Outcome Prediction — Deep Neural Network vs Random Forest
 collection: mini_projects
 date: 2021-05-07
 venue: "STAT4012 – Statistical Machine Learning"
-github: "[https://github.com/martinmtt0902/horse-racing-deep-learning/tree/main](https://github.com/martinmtt0902/horse-racing-deep-learning/tree/main)"
+github: "https://github.com/martinmtt0902/horse-racing-deep-learning/tree/main"
 project_type: "Group project"
 ---
 
-This project analyzes Hong Kong horse racing data and compares modern machine learning
-methods for predicting race outcomes.
+This group project analyzes Hong Kong horse racing data and compares several machine learning methods for predicting race outcomes. The work combines data preparation, feature engineering, model comparison, and result interpretation.
 
-The dataset contains over 130,000 race records extracted from public racing databases,
-including:
+## Highlights
+- Worked with a dataset containing more than 130,000 Hong Kong horse racing records.
+- Compared deep learning and classical machine learning models in the same prediction task.
+- Examined which features contributed most strongly to predictive performance.
 
-- horse demographics  
-- race characteristics  
-- jockey/trainer statistics  
-- track & turf conditions  
-- sectional time information
+## Methods
+- Built a dataset combining horse demographics, race characteristics, jockey and trainer information, track conditions, and sectional time variables.
+- Evaluated Deep Neural Network, Random Forest, XGBoost, and Logistic Regression models.
+- Compared models using predictive performance and feature importance patterns.
 
-The project evaluates and compares:
+## Findings
+- Random Forest achieved the strongest out-of-sample accuracy among the main models tested.
+- Deep Neural Networks were competitive but required more tuning and model adjustment.
+- Odds-related and horse-form variables contributed substantially to predictive performance.
 
-### **Models evaluated**
-- **Deep Neural Network (DNN)**
-- **Random Forest**
-- **Gradient Boosting (XGBoost)**
-- **Logistic Regression (baseline)**
-
-### **Key findings**
-- Random Forest achieved the highest out-of-sample accuracy among classical methods.
-- Deep Neural Networks performed competitively but required heavy tuning.
-- Feature importance revealed consistency in jockey, trainer, and horse form variables.
-- Odds-based features significantly improved predictive performance.
-
-### **Files included in the repo**
-- Data cleaning scripts  
-- Feature engineering pipeline  
-- Model training notebooks  
-- Evaluation metrics & comparison plots  
-
-**GitHub Repository:**  
-👉 [https://github.com/martinmtt0902/horse-racing-deep-learning/tree/main](https://github.com/martinmtt0902/horse-racing-deep-learning/tree/main)
+## Resources
+- [GitHub Repository](https://github.com/martinmtt0902/horse-racing-deep-learning/tree/main)

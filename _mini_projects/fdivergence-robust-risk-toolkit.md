@@ -7,14 +7,21 @@ github: "https://github.com/martinmtt0902/fdivergence-robust-risk-toolkit"
 project_type: "Individual project"
 ---
 
-R implementation of robust risk assessment based on **F-divergences**, reproducing
-and extending experiments from *“A Toolkit for Robust Risk Assessment Using
-F-Divergences”*.
+This project implements a robust risk assessment toolkit in R based on F-divergences. It reproduces and extends ideas from the literature and applies them in both simulation-based and practical examples.
 
-- Implements lognormal and Weibull reference models.
-- Provides functions to estimate worst-case expectations under divergence constraints.
-- Includes simulation studies (inventory pooling, dependence via copulas) and an
-  application to Hong Kong COVID-19 case counts.
+## Highlights
+- Implemented robust risk calculations under divergence-based uncertainty sets.
+- Worked with lognormal and Weibull reference models.
+- Studied applications involving inventory pooling, dependence modelling, and Hong Kong COVID-19 case counts.
 
-**GitHub repository:**  
-[github.com/martinmtt0902/fdivergence-robust-risk-toolkit](https://github.com/martinmtt0902/fdivergence-robust-risk-toolkit)
+## Methods
+- Built functions to estimate worst-case expectations under divergence constraints.
+- Reproduced core experiments from the reference framework and extended them to additional settings.
+- Used simulation and comparative analysis to evaluate robustness under model uncertainty.
+
+## Findings
+- The project illustrates how divergence-based methods can provide a practical way to stress-test risk measures.
+- It also shows how robust procedures can be adapted to applied settings beyond purely theoretical examples.
+
+## Resources
+- [GitHub Repository](https://github.com/martinmtt0902/fdivergence-robust-risk-toolkit)

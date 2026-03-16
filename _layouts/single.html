@@ -17,7 +17,7 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+  <article class="page{% if page.collection == 'mini_projects' %} page--project{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
@@ -34,7 +34,39 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
-        {% if page.collection == 'teaching' %}
+        {% if page.collection == 'mini_projects' %}
+          <div class="project-meta">
+            {% if page.venue %}
+              <div class="project-meta__item">
+                <span class="project-meta__label">Course</span>
+                <span>{{ page.venue }}</span>
+              </div>
+            {% endif %}
+            {% if page.date %}
+              <div class="project-meta__item">
+                <span class="project-meta__label">Completed on</span>
+                <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+              </div>
+            {% endif %}
+            {% if page.project_type %}
+              <div class="project-meta__item">
+                <span class="project-meta__label">Project type</span>
+                <span>{{ page.project_type }}</span>
+              </div>
+            {% endif %}
+          </div>
+          <div class="project-actions">
+            {% if page.github %}
+              <a href="{{ page.github }}" class="btn project-actions__btn">GitHub Repository</a>
+            {% endif %}
+            {% if page.report_url %}
+              <a href="{{ page.report_url }}" class="btn project-actions__btn">Report</a>
+            {% endif %}
+            {% if page.code_url %}
+              <a href="{{ page.code_url }}" class="btn project-actions__btn">Code</a>
+            {% endif %}
+          </div>
+        {% elsif page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
@@ -44,7 +76,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content{% if page.collection == 'mini_projects' %} page__content--project{% endif %}" itemprop="text">
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}

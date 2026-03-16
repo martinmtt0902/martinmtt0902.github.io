@@ -289,6 +289,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _mini_projects
+  - scope:
+      path: ""
+      type: mini_projects
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comments: false
 
 
 # Sass/SCSS
