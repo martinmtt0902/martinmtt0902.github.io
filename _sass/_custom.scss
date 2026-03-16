@@ -179,10 +179,7 @@ html[data-theme="dark"] {
 }
 
 .author__top-block {
-  display: grid;
-  grid-template-columns: minmax(136px, 156px) minmax(0, 1fr);
-  gap: 0.9rem;
-  align-items: start;
+  display: block;
 }
 
 .author__avatar img {
@@ -194,40 +191,13 @@ html[data-theme="dark"] {
 }
 
 .author__top-details {
-  display: grid;
-  gap: 0.28rem;
-  align-content: start;
-  padding-top: 0.15rem;
-}
-
-.author__top-link,
-.author__top-meta {
-  margin: 0;
-  font-family: $sans-serif;
-  font-size: 0.92rem;
-  line-height: 1.4;
-}
-
-.author__top-link {
-  color: var(--global-link-color);
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.author__top-link:hover,
-.author__top-link:focus-visible {
-  color: var(--global-link-color-hover);
-}
-
-.author__top-meta {
-  color: var(--global-text-color-light);
+  display: none;
 }
 
 .author__contact-icons {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0.55rem;
-  margin-top: 0.3rem;
 }
 
 .author__contact-icon {
@@ -249,7 +219,7 @@ html[data-theme="dark"] {
 }
 
 .author__content {
-  margin-top: 0.2rem;
+  margin-top: 0.55rem;
   font-size: 1rem;
 
   @include breakpoint($large) {
@@ -274,15 +244,64 @@ html[data-theme="dark"] {
   }
 }
 
-.author__urls-wrapper {
-  margin-top: 0.9rem;
+.author__meta-list {
+  display: grid;
+  gap: 0.22rem;
+  margin-top: 0.2rem;
+}
+
+.author__meta-list p {
+  margin: 0;
+  font-family: $sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: var(--global-text-color-light);
+}
+
+.author__meta-link {
+  color: var(--global-link-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.author__meta-link:hover,
+.author__meta-link:focus-visible {
+  color: var(--global-link-color-hover);
+}
+
+.author__meta-mobile-links {
+  display: grid;
+  gap: 0.18rem;
+  margin-top: 0.18rem;
+}
+
+.author__meta-mobile-links p {
+  color: var(--global-text-color);
+}
+
+@include breakpoint($large) {
+  .author__top-block {
+    display: grid;
+    grid-template-columns: minmax(136px, 156px) minmax(0, 1fr);
+    gap: 0.9rem;
+    align-items: start;
+  }
+
+  .author__top-details {
+    display: grid;
+    align-content: start;
+    padding-top: 0.15rem;
+  }
+
+  .author__meta-mobile-links {
+    display: none;
+  }
 }
 
 .author__urls {
   margin-top: 0.35rem;
   font-size: 0.94rem;
   line-height: 1.55;
-
   @include breakpoint($large) {
     font-size: 1rem;
   }
@@ -552,20 +571,8 @@ html[data-theme="dark"] {
 }
 
 @include breakpoint(max-width $small) {
-  .author__top-block {
-    grid-template-columns: minmax(126px, 144px) minmax(0, 1fr);
-    gap: 0.85rem;
-  }
-
-  .author__top-link,
-  .author__top-meta {
+  .author__meta-list p {
     font-size: 0.88rem;
-  }
-
-  .author__contact-icon {
-    width: 1.9rem;
-    height: 1.9rem;
-    font-size: 1.28rem;
   }
 
   .profile-section,
