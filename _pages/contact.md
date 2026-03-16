@@ -22,6 +22,7 @@ statistics work, or academic collaboration.
     <p class="profile-kicker">Location</p>
     <h2>Mailing address</h2>
     <p>
+      Room G32, Lady Shaw Building<br>
       The Chinese University of Hong Kong
     </p>
     <p class="profile-card__note">
