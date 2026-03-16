@@ -4,6 +4,7 @@ collection: mini_projects
 date: 2020-12-03   # approximate completion date
 venue: "RMSC4002 – Financial Data Analytics with Machine Learning"
 github: "https://github.com/martinmtt0902/generalized-pcr-stock-model"
+project_type: "Group project"
 ---
 
 This project implements a generalized principal component regression (PCR) approach

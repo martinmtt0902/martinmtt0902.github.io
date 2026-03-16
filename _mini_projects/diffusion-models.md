@@ -4,6 +4,7 @@ collection: mini_projects
 date: 2024-12-15
 venue: "STAT6050 – Advanced Statistical Learning"
 github: "https://github.com/martinmtt0902/Diffusion-Models"
+project_type: "Individual project"
 ---
 
 This project compares the performance of major **diffusion probabilistic model (DPM)** samplers including DDPM, DDIM, DPM-Solver, DPM-Solver++ and UniPC under a given target distribution.

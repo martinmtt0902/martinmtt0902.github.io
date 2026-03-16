@@ -4,6 +4,7 @@ collection: mini_projects
 date: 2022-04-05
 venue: "RMSC4102 – Risk Theory and Applications"
 github: "https://github.com/martinmtt0902/fdivergence-robust-risk-toolkit"
+project_type: "Individual project"
 ---
 
 R implementation of robust risk assessment based on **F-divergences**, reproducing

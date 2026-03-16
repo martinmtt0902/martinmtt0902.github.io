@@ -4,6 +4,7 @@ collection: mini_projects
 date: 2021-05-07
 venue: "STAT4012 – Statistical Machine Learning"
 github: "[https://github.com/martinmtt0902/horse-racing-deep-learning/tree/main](https://github.com/martinmtt0902/horse-racing-deep-learning/tree/main)"
+project_type: "Group project"
 ---
 
 This project analyzes Hong Kong horse racing data and compares modern machine learning
