@@ -14,7 +14,6 @@ statistics work, or academic collaboration.
     <h2>Email and phone</h2>
     <ul class="profile-list profile-list--compact">
       <li><strong>Email:</strong> <a href="mailto:martinmtt@link.cuhk.edu.hk">martinmtt@link.cuhk.edu.hk</a></li>
-      <li><strong>Phone:</strong> 3943 8535</li>
       <li><strong>CUHK Page:</strong> <a href="https://www.sta.cuhk.edu.hk/peoples/ma-ting-tin/">Department profile</a></li>
     </ul>
   </section>
@@ -23,9 +22,7 @@ statistics work, or academic collaboration.
     <p class="profile-kicker">Location</p>
     <h2>Mailing address</h2>
     <p>
-      Room G32, Lady Shaw Building<br>
-      The Chinese University of Hong Kong<br>
-      Hong Kong
+      The Chinese University of Hong Kong
     </p>
     <p class="profile-card__note">
       The embedded map below is provided for campus reference.
