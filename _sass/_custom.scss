@@ -78,6 +78,76 @@ html[data-theme="dark"] {
   opacity: 0.5;
 }
 
+.homepage-section {
+  margin-top: 1.35rem;
+  border-top: 1px solid var(--global-border-color);
+  padding-top: 0.3rem;
+}
+
+.homepage-section:first-of-type {
+  margin-top: 1.5rem;
+}
+
+.homepage-section summary {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  list-style: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0.8rem 0 0.25rem;
+  color: var(--global-text-color);
+  font-size: 1.32rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.homepage-section summary::-webkit-details-marker {
+  display: none;
+}
+
+.homepage-section summary::after {
+  content: "+";
+  flex-shrink: 0;
+  color: var(--global-link-color);
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1;
+  transition: transform 0.16s ease, color 0.16s ease;
+}
+
+.homepage-section[open] summary::after {
+  content: "\2212";
+}
+
+.homepage-section summary:hover,
+.homepage-section summary:focus-visible {
+  color: var(--global-link-color-hover);
+  outline: none;
+}
+
+.homepage-section > summary::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2.5rem;
+  height: 2px;
+  border-radius: 999px;
+  background: var(--global-link-color);
+  opacity: 0.5;
+}
+
+.homepage-section > *:not(summary) {
+  margin-top: 0.55rem;
+}
+
+.homepage-section > ul {
+  margin-bottom: 0.25rem !important;
+}
+
 .sidebar,
 .sidebar.sticky,
 .sidebar.sticky:hover {
