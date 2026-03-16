@@ -17,6 +17,16 @@
     </div>
 
     <div class="author__top-details">
+      {% if author.uri %}
+        <a class="author__top-link" href="{{ author.uri }}">Google Site</a>
+      {% endif %}
+      {% if author.location %}
+        <p class="author__top-meta">{{ author.location }}</p>
+      {% endif %}
+      {% if author.employer %}
+        <p class="author__top-meta">{{ author.employer }}</p>
+      {% endif %}
+
       <div class="author__contact-icons">
         {% if author.email %}
           <a class="author__contact-icon" href="mailto:{{ author.email }}" aria-label="{{ site.data.ui-text[site.locale].email_label | default: 'Email' }}" title="{{ site.data.ui-text[site.locale].email_label | default: 'Email' }}">
@@ -41,29 +51,5 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-  </div>
-
-  <div class="author__meta-list">
-    {% if author.uri %}
-      <p><a class="author__meta-link" href="{{ author.uri }}">Google Site</a></p>
-    {% endif %}
-    {% if author.location %}
-      <p>{{ author.location }}</p>
-    {% endif %}
-    {% if author.employer %}
-      <p>{{ author.employer }}</p>
-    {% endif %}
-
-    <div class="author__meta-mobile-links">
-      {% if author.email %}
-        <p><a class="author__meta-link" href="mailto:{{ author.email }}">{{ site.data.ui-text[site.locale].email_label | default: 'Email' }}</a></p>
-      {% endif %}
-      {% if author.github %}
-        <p><a class="author__meta-link" href="https://github.com/{{ author.github }}">GitHub</a></p>
-      {% endif %}
-      {% if author.linkedin %}
-        <p><a class="author__meta-link" href="https://www.linkedin.com/in/{{ author.linkedin }}">LinkedIn</a></p>
-      {% endif %}
-    </div>
   </div>
 </div>
