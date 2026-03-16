@@ -162,24 +162,94 @@ html[data-theme="dark"] {
 .sidebar.sticky .author__content,
 .sidebar.sticky .author__name,
 .sidebar.sticky .author__bio,
-.sidebar.sticky .author__urls-wrapper,
-.sidebar.sticky .author__urls {
+.sidebar.sticky .author__top-details {
   opacity: 1 !important;
   filter: none !important;
 }
 
+.author-profile {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.author__avatar {
+  display: block;
+  width: auto;
+  height: auto;
+}
+
+.author__top-block {
+  display: grid;
+  grid-template-columns: minmax(136px, 156px) minmax(0, 1fr);
+  gap: 0.9rem;
+  align-items: start;
+}
+
 .author__avatar img {
   box-shadow: none !important;
+  width: 100%;
 
-  @include breakpoint($large) {
-    max-width: 185px;
-    border-radius: 16px;
-    border: 0;
-  }
+  border-radius: 16px;
+  border: 0;
+}
+
+.author__top-details {
+  display: grid;
+  gap: 0.28rem;
+  align-content: start;
+  padding-top: 0.15rem;
+}
+
+.author__top-link,
+.author__top-meta {
+  margin: 0;
+  font-family: $sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+
+.author__top-link {
+  color: var(--global-link-color);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.author__top-link:hover,
+.author__top-link:focus-visible {
+  color: var(--global-link-color-hover);
+}
+
+.author__top-meta {
+  color: var(--global-text-color-light);
+}
+
+.author__contact-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-top: 0.3rem;
+}
+
+.author__contact-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  color: var(--global-link-color);
+  font-size: 1.35rem;
+  text-decoration: none;
+  transition: color 0.16s ease, transform 0.16s ease;
+}
+
+.author__contact-icon:hover,
+.author__contact-icon:focus-visible {
+  color: var(--global-link-color-hover);
+  transform: translateY(-1px);
 }
 
 .author__content {
-  margin-top: 0.8rem;
+  margin-top: 0.2rem;
   font-size: 1rem;
 
   @include breakpoint($large) {
@@ -482,6 +552,22 @@ html[data-theme="dark"] {
 }
 
 @include breakpoint(max-width $small) {
+  .author__top-block {
+    grid-template-columns: minmax(126px, 144px) minmax(0, 1fr);
+    gap: 0.85rem;
+  }
+
+  .author__top-link,
+  .author__top-meta {
+    font-size: 0.88rem;
+  }
+
+  .author__contact-icon {
+    width: 1.9rem;
+    height: 1.9rem;
+    font-size: 1.28rem;
+  }
+
   .profile-section,
   .profile-card,
   .archive__item {
